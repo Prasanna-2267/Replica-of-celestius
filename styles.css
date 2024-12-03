@@ -1,0 +1,58 @@
+.Celestius{
+    display: inline-flex;
+    margin-left: 10px;
+    translate: 0px -5px;
+}
+.headerelements{
+    display: inline-flex;
+    margin-left: 250px;
+    translate: 0px -5px;
+}
+.elements{
+    margin-left: 25px;
+    display: flex;
+    
+}
+.headbutton{
+    margin-left: 450px;
+    display: flex;
+}
+.headcontainer{
+    justify-content: space-between;
+}
+.container1{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    
+}
+.container1elements{
+    display: block;
+    font-size: xx-large;
+    font-family: sans-serif;
+    padding-left: 60px;
+    padding-top: 80px;
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 60px;
+    width: 100%
+
+}
+.container2{
+    display: block;
+    padding-top: 120px;
+    width: 660px;
+    font-size: x-large;
+}
+.content{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.contentbutton{
+    width: 100px;
+    height: 50px;
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+}
